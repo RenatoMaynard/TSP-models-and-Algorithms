@@ -10,8 +10,7 @@ The Traveling Salesman Problem is a classic optimization problem in computer sci
 
 This repository provides the following resources:
 
-- **Models:** Implementation of different mathematical models for the TSP, including formulations as linear programming (LP) and mixed-integer programming (MIP) problems.
-- **Algorithms:** Implementation of various algorithms for solving the TSP, such as greedy algorithms, local search heuristics, and metaheuristic approaches.
+- **Models:** Implementation of different mathematical models for the TSP, including formulations in mixed-integer programming (MIP) problems.
 - **Data:** Example datasets of cities and their distances, which can be used for testing and experimenting with the models and algorithms.
 - **Documentation:** Detailed documentation and usage instructions for each model and algorithm, along with code examples.
 
